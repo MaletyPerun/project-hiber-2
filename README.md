@@ -1,0 +1,1 @@
+MySQL 8 and p6spy via Docker-compose
